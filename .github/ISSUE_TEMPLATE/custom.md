@@ -44,7 +44,9 @@ assignees: ''
 * 코멘트 양식은 개인 문제풀이용 저장소나 블로그 링크를 올려주세요.
 * ex.
 
+```
 |사이트|등급|풀이|count|
 |---|---|---|---|
 |BOJ|실버|[에너지 모으기](https://github.com/suhyunsim/Algorithm_Practice/issues/176)|2|
 |-|-|-|취급 개수 2개|
+```
