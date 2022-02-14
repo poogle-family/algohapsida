@@ -20,6 +20,8 @@ assignees: ''
 ||Level 3|4개|
 ||Level 4|5개|
 ||Level 5|6개|
+|프로그래머스 SQL|Level 3|2개|
+||Level 4|3개|
 |LeetCode|Easy|2개|
 ||Medium|4개|
 ||Hard|6개|
