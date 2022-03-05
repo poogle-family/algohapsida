@@ -67,6 +67,8 @@
 <br>
 
 ## 👥 멤버
-|심수현|김은서|김현식|신용진|한맹희|유지훈|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-<a href="https://github.com/suhyunsim"><img src="https://avatars.githubusercontent.com/suhyunsim" width="200" height="200">|<a href="https://github.com/eunseo2"><img src="https://avatars.githubusercontent.com/eunseo2" width="200" height="200">|<a href="https://github.com/hsik0225"><img src="https://avatars.githubusercontent.com/hsik0225" width="200" height="200">|<a href="https://github.com/sirin0762"><img src="https://avatars.githubusercontent.com/sirin0762" width="200" height="200">|<a href="https://github.com/maenguin"><img src="https://avatars.githubusercontent.com/maenguin" width="200" height="200">|<a href="https://github.com/YOUJI2"><img src="https://avatars.githubusercontent.com/YOUJI2" width="200" height="200">
+|<b>심수현</b>|<b>김은서</b>|<b>김현식</b>|
+|:-:|:-:|:-:|
+<a href="https://github.com/suhyunsim"><img src="https://avatars.githubusercontent.com/suhyunsim" width="200" height="200">|<a href="https://github.com/eunseo2"><img src="https://avatars.githubusercontent.com/eunseo2" width="200" height="200">|<a href="https://github.com/hsik0225"><img src="https://avatars.githubusercontent.com/hsik0225" width="200" height="200">|
+|<b>신용진</b>|<b>한맹희</b>|<b>유지훈</b>|
+|<a href="https://github.com/sirin0762"><img src="https://avatars.githubusercontent.com/sirin0762" width="200" height="200">|<a href="https://github.com/maenguin"><img src="https://avatars.githubusercontent.com/maenguin" width="200" height="200">|<a href="https://github.com/YOUJI2"><img src="https://avatars.githubusercontent.com/YOUJI2" width="200" height="200">
