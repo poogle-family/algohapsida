@@ -36,10 +36,10 @@ assignees: ''
 |:-:|:-:|
 |심수현|1개
 |김은서|2개|
-|김현식|4개|
+|김현식|6개|
 |신용진|2개|
 |한맹희|1개|
-|유지훈|1개|
+|유지훈|2개|
 
 ### 규칙
 * ~ 23:59까지 코멘트에 달아주세요! 다음 요일 이슈 리더가 체크합니다.
@@ -51,5 +51,6 @@ assignees: ''
 |사이트|등급|풀이|count|
 |---|---|---|---|
 |BOJ|실버|[에너지 모으기](https://github.com/suhyunsim/Algorithm_Practice/issues/176)|2|
-|-|-|-|취급 개수 2개|
+|PG|Level 2|[에너지 모으기](https://github.com/suhyunsim/Algorithm_Practice/issues/176)|2|
+|-|-|-|취급 개수 4개|
 ```
